@@ -24,11 +24,11 @@
 ##  致谢  
 排名不分先后，感谢各位开发者持续的输出。（可能会有遗漏）
 
-- [@chavyleung](https://github.com/chavyleung)         - [@app2smile](https://github.com/app2smile/rules)  
-- [@NobyDa](https://github.com/NobyDa)                 - [@LucaLin233](https://https://github.com/LucaLin233)  
-- [@VirgilClyne](https://github.com/VirgilClyne)       - [@SukkaW](https://https://github.com/SukkaW)  
-- [@Rabbit-Spec](https://github.com/Rabbit-Spec)       - [@BlackMatrix7](https://github.com/blackmatrix7)  
-- [Koolson](https://github.com/Koolson/Qure)           - [@DivineEngine](https://github.com/DivineEngine)
+- [@chavyleung](https://github.com/chavyleung)          - [@app2smile](https://github.com/app2smile/rules)  
+- [@NobyDa](https://github.com/NobyDa)                  - [@LucaLin233](https://https://github.com/LucaLin233)  
+- [@VirgilClyne](https://github.com/VirgilClyne)        - [@SukkaW](https://https://github.com/SukkaW)  
+- [@Rabbit-Spec](https://github.com/Rabbit-Spec)        - [@BlackMatrix7](https://github.com/blackmatrix7)  
+- [@Koolson](https://github.com/Koolson/Qure)           - [@DivineEngine](https://github.com/DivineEngine)
 
 ---
 内容均采自互联网，不保证可用性。
